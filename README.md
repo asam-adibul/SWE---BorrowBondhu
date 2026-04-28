@@ -1,2 +1,2 @@
 # SWE---BorrowBondhu
-Repo of my project BorrowBondhu
+This is the official repo of BorrowBondhu
